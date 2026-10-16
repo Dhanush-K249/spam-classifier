@@ -1,0 +1,4 @@
+nltk
+scikit-learn
+pickle
+streamlit
