@@ -20,6 +20,8 @@ An end-to-end Machine Learning web application built with Python, scikit-learn, 
 spamClassifier/
 │
 ├── app.py              # Streamlit application & inference pipeline
+├── SMSClassifier.ipynb # ipynb file which cleans, vectorizes the data and trains the model
+├── spam.csv            # SMS dataset
 ├── model.pkl           # Trained classification model
 ├── vectorizer.pkl      # Trained TF-IDF vectorizer
 ├── requirements.txt    # Python dependencies
